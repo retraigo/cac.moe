@@ -3,7 +3,7 @@
     <div
       :class="`relative flex flex-col items-start gap-8 justify-start font-atmospheric overflow-y-auto min-h-screen ${navState ? `w-full` : `w-auto`}`">
       <button
-        :class="`inline-flex items-center z-50 justify-center w-16 h-16 bg-black/60 p-2 text-white focus:outline-none`"
+        :class="`inline-flex items-center z-50 justify-center w-16 h-16 bg-black p-2 text-white focus:outline-none`"
         @click="toggle">
         <span :class="`sr-only`">Open menu</span>
         <svg :class="`block h-8 w-8 text-white stroke-2 stroke-white`" xmlns="http://www.w3.org/2000/svg" fill="none"
