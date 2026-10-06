@@ -13,6 +13,6 @@ if (!page.value) {
 <template>
   <ContentRenderer
     v-if="page"
-    :value="page" class="prose dark:prose-invert"
+    :value="page" class="prose dark:prose-invert mx-auto"
   />
 </template>
