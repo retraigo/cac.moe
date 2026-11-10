@@ -27,7 +27,4 @@ export default defineNuxtConfig({
     preference: 'dark',
     fallback: 'dark',
   }
-  routeRules: {
-    '/0xhyprlarp': { redirect: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' }
-  }
 })
