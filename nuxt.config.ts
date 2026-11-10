@@ -2,9 +2,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  routeRules: {
-    '/0xhyprlarp': { redirect: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' }
-  }
   modules: [
     '@nuxt/content',
     '@nuxt/image',
@@ -29,5 +26,8 @@ export default defineNuxtConfig({
   colorMode: {
     preference: 'dark',
     fallback: 'dark',
+  }
+  routeRules: {
+    '/0xhyprlarp': { redirect: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' }
   }
 })
