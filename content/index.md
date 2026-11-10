@@ -2,4 +2,4 @@
 
 >This will soon be done in a while
 
-![Platelets](/public/platelets.gif)
+![Platelets](../public/platelets.gif)
