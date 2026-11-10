@@ -3,7 +3,8 @@
         <!--
         <MiscTitle>This website is still WIP ☆(≧▽≦)☆</MiscTitle>
         <img src="/platelets.gif" />
-        -->
         <ContentDoc path="/" />
+        -->
+        
     </div>
 </template>
