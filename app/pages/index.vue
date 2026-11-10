@@ -4,6 +4,6 @@
         <MiscTitle>This website is still WIP ☆(≧▽≦)☆</MiscTitle>
         <img src="/platelets.gif" />
         -->
-        <ContentDoc />
+        <ContentDoc path="/" />
     </div>
 </template>
