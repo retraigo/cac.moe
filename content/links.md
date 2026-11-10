@@ -1,6 +1,6 @@
 # Chennai Anime Club
 
-Halo /:D, Connect with us and stay updated on all our latest events and meetups.
+Halo \:D, Connect with us and stay updated on all our latest events and meetups.
 
 **Community Hubs**
 
