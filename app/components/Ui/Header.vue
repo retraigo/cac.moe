@@ -12,7 +12,7 @@
             <UiNavbar />
         </div>
         <div class="block xl:hidden">
-            <UiFab :links="MenuItems" :right="false" />
+            <UiMobileNav :links="MenuItems" :right="false" />
         </div>
     </header>
 </template>
