@@ -5,7 +5,7 @@ Halo \:D, Connect with us and stay updated on all our latest events and meetups.
 **Current Events**
 
 * [Closet-Cosplay(Online)](https://forms.gle/uHdJjJzb4imKZK4LA)
-* [CAC x Japan Habba giveway site](https://cacxhabba.netlify.app/)
+* [CAC x Japan Habba giveway site](https://habba.cac.moe/)
 
 **Community Hubs**
 
