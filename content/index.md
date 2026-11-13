@@ -1,4 +1,4 @@
-# Welcome to CAC
+# Welcome to CAC ^w^
 
 **Event Calendar**
 
