@@ -2,7 +2,7 @@
 
 **Event Calendar**
 
-* [Japan Film Festival](https://www.instagram.com/p/DfrRHz2Erp1/?img_index=1) - Suzume 21st November 2026
+* [Japan Film Festival](https://www.instagram.com/p/DfrRHz2Erp1/?img_index=1) - Suzume 22st November 2026
 
 ![JFF](/jff.png)
 
